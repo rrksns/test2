@@ -8,7 +8,7 @@
 </head>
 <body>
 	<script type="text/javascript">
-	location.href="deptList.go"
+	location.href="main.go"
 	</script>
 </body>
 </html>
